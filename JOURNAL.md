@@ -39,4 +39,6 @@ Lastly, I insulated the joints and bundled the wires with some electrical tape, 
 
 **2.88h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/d4b8fae7-16a0-42fa-9300-7459a36b1050/video.mp4)
