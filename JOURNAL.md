@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-02 — October 2nd: Just some basic soldering](#2026-10-02-october-2nd-just-some-basic-soldering)
-2. [2026-10-02 — Work session](#2026-10-02-work-session)
+2. [2026-10-02 — Modelling the frame around the fan and filter](#2026-10-02-modelling-the-frame-around-the-fan-and-filter)
 
 ## Build
 
@@ -35,10 +35,10 @@ Lastly, I insulated the joints and bundled the wires with some electrical tape, 
 
 ![IMG_0412](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/oevoP7jO4uTvd60Ew3652grvpX7eA13X/5f44d0e6959bf146a247e87f0a1b6c6cf34a92652347de54f7f34c167a0d88ca.jpg)
 
-### 2026-10-02 — Work session
+### 2026-10-02 — Modelling the frame around the fan and filter
 
 **2.88h**
 
-Work session
+Modelling the frame around the fan and filter
 
 [Timelapse](https://lookout.hackclub.com/api/media/d4b8fae7-16a0-42fa-9300-7459a36b1050/video.mp4)
