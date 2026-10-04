@@ -1,6 +1,8 @@
 # Basic-Solder-Fume-Extractor
 A simple battery powered fan and filter meant to suck soldering fumes away and filter them out
 
+<img width="4032" height="3024" alt="IMG_0416" src="https://github.com/user-attachments/assets/10382051-ec26-4a17-b5d0-acc5091943e1" />
+
 ### Introduction
 This is a simple soldering fume extractor meant to pull soldering fumes away from your face and filter them out so that they don't linger in your workspace. It uses a 92mm PC fan as the main extractor along with an AA battery pack for power.
 
@@ -32,7 +34,7 @@ As for the wiring, it's very simple, just connect the positive wire from the bat
 
 After wiring everything up as putting all the parts together, the final product should look something like this:
 
-*Insert IRL overall image here*
+<img width="4032" height="3024" alt="IMG_0417" src="https://github.com/user-attachments/assets/a192f417-743c-4549-aef0-2793cdf804d8" />
 
 ### Media
 Here are some videos, photos and screenshots of my design:
@@ -44,14 +46,22 @@ CAD screenshot of back:
 <img width="897" height="674" alt="CAD (Back)" src="https://github.com/user-attachments/assets/22331aa4-2d2b-42bf-84b8-968d042aa438" />
 
 Some photos of the design:
-*Insert IRL photos here*
-
-Video of the extractor in action! (As mentioned before I do not have a soldering yet so I am testing with smoke from a small fire):
-*Insert video here*
+<img width="3024" height="4032" alt="IMG_0413" src="https://github.com/user-attachments/assets/3041a1f1-ddc0-430d-93f6-b097aa1a1b28" />
+<img width="3024" height="4032" alt="IMG_0415" src="https://github.com/user-attachments/assets/00a21215-995e-4c2a-8db4-0842e44bc9d0" />
 
 ### BOM
+Here is a reference BOM I made in case anyone would want to make this or anything similar:
 
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [12V 92mm PC Fan](https://www.aliexpress.com/item/1005003012090486.html?spm=a2g0o.productlist.main.13.59e818612YrFyj&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005003012090486%7C_p_origin_prod%3A&algo_pvid=b7497d91-056f-4397-ae8c-fe02d671c822&algo_exp_id=b7497d91-056f-4397-ae8c-fe02d671c822&pdp_ext_f=%7B%22order%22%3A%221349%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2170.54%2126.55%21%21%217.04%212.65%21%402103849717909541352671167e1113%2112000036190187375%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880) | For sucking the fumes away | 1 | $5.91 | $5.91 | [AliExpress](https://www.aliexpress.com/item/1005003012090486.html?spm=a2g0o.productlist.main.13.59e818612YrFyj&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005003012090486%7C_p_origin_prod%3A&algo_pvid=b7497d91-056f-4397-ae8c-fe02d671c822&algo_exp_id=b7497d91-056f-4397-ae8c-fe02d671c822&pdp_ext_f=%7B%22order%22%3A%221349%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2170.54%2126.55%21%21%217.04%212.65%21%402103849717909541352671167e1113%2112000036190187375%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880) |
+| [8x AA Battery Holder with switch](https://www.aliexpress.com/item/33041068817.html?spm=a2g0o.productlist.main.48.6c7c2b46omg3bz&algo_pvid=71e42a17-8835-4e68-845e-14ed5b2bd2da&algo_exp_id=71e42a17-8835-4e68-845e-14ed5b2bd2da-45&pdp_ext_f=%7B%22order%22%3A%221706%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2131.66%2110.92%21%21%213.16%211.09%21%4021038c6f17909530050816030e1125%2167319495209%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880&curPageLogUid=VB6ddZBYjzRB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A33041068817%7C_p_origin_prod%3A) | For supplying power to the fan while also having an inbuilt switch | 1 | $3.29 | $3.29 | [AliExpress](https://www.aliexpress.com/item/33041068817.html?spm=a2g0o.productlist.main.48.6c7c2b46omg3bz&algo_pvid=71e42a17-8835-4e68-845e-14ed5b2bd2da&algo_exp_id=71e42a17-8835-4e68-845e-14ed5b2bd2da-45&pdp_ext_f=%7B%22order%22%3A%221706%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2131.66%2110.92%21%21%213.16%211.09%21%4021038c6f17909530050816030e1125%2167319495209%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880&curPageLogUid=VB6ddZBYjzRB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A33041068817%7C_p_origin_prod%3A) |
+| [Carbon Filter](https://www.aliexpress.com/item/1005003090089952.html?spm=a2g0o.productlist.main.1.13716695kepVoe&algo_pvid=87cbb5a2-71bd-431e-a58b-41d3610ea1b0&algo_exp_id=87cbb5a2-71bd-431e-a58b-41d3610ea1b0-0&pdp_ext_f=%7B%22order%22%3A%221190%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2153.61%2111.43%21%21%215.35%211.14%21%40210396b417909538826354925e115c%2112000024020486506%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880&curPageLogUid=8phGdWWrxuEd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003090089952%7C_p_origin_prod%3A) | To filter the fumes | 1 | $5.57 | $5.57 | [AliExpress](https://www.aliexpress.com/item/1005003090089952.html?spm=a2g0o.productlist.main.1.13716695kepVoe&algo_pvid=87cbb5a2-71bd-431e-a58b-41d3610ea1b0&algo_exp_id=87cbb5a2-71bd-431e-a58b-41d3610ea1b0-0&pdp_ext_f=%7B%22order%22%3A%221190%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21NOK%2153.61%2111.43%21%21%215.35%211.14%21%40210396b417909538826354925e115c%2112000024020486506%21sea%21NO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae51daea7%3Bm03_new_user%3A-29895%3BpisId%3A5000000216897880&curPageLogUid=8phGdWWrxuEd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003090089952%7C_p_origin_prod%3A) |
+| **Parts subtotal** | — | — | — | **$14.77** | — |
 
+Some notes:
+- For the fan I would recommend getting one with a ball bearing one instead of one with a sleeve bearing even though it is cheaper. Ball bearing ones last a lot longer are are sealed from any soot or dust buildup.
+- I think the integrated switch is convenient, but it is not necessary for the design. Integrating an inline switch or potentiometer is also a valid change.
 
 
 
