@@ -16,7 +16,7 @@
 
 1. [2026-10-02 — October 2nd: Just some basic soldering](#2026-10-02-october-2nd-just-some-basic-soldering)
 2. [2026-10-02 — Modelling the frame around the fan and filter](#2026-10-02-modelling-the-frame-around-the-fan-and-filter)
-3. [2026-10-04 — Correcting errors and modelling frame for battery holder](#2026-10-04-correcting-errors-and-modelling-frame-for-battery)
+3. [2026-10-04 — Correcting clearance errors and modelling frame for battery holder](#2026-10-04-correcting-clearance-errors-and-modelling-frame-f)
 
 ## Build
 
@@ -44,10 +44,10 @@ Modelling the frame around the fan and filter
 
 [Timelapse](https://lookout.hackclub.com/api/media/d4b8fae7-16a0-42fa-9300-7459a36b1050/video.mp4)
 
-### 2026-10-04 — Correcting errors and modelling frame for battery holder
+### 2026-10-04 — Correcting clearance errors and modelling frame for battery holder
 
 **1.07h**
 
-Correcting errors and modelling frame for battery holder
+Correcting clearance errors and modelling frame for battery holder
 
 [Timelapse](https://lookout.hackclub.com/api/media/d1c3a84f-59a2-4ef1-9de3-0da10eb646fa/video.mp4)
